@@ -11,6 +11,7 @@
   },
   "files": [
     "lib",
+    "skill",
     "cordis.patch.yml",
     "README.md"
   ],
